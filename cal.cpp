@@ -20,7 +20,7 @@ int main() {
            cin >> a;
            cout << " enter 2nd number"<<endl ;
            cin >> b ;
-            int i = sum(a,b);
+            int i = sumMagic(a,b);
         cout <<"result iz " << i << endl ; 
         } else if (a==2){
    
